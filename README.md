@@ -1,4 +1,3 @@
-Note: this project no longer maintained
 
 
 [![N|Solid](https://cdn.discordapp.com/attachments/340110838947905538/398531319048699905/test.png)](https://github.com/namkazt/PinBox)
@@ -8,7 +7,7 @@ Welcome to Pinbox! Pinbox is a homebrew application (Soon .cia) for the Nintendo
 https://discord.gg/CpNpMdG
 
 # Current Support
-- Streaming from Windows PC to a 3DS ( or over internet from VPS windows server )
+- Streaming from a computer to a 3DS ( or over internet from VPS windows server )
 - Audio support (MP2 encode/decode)
 - Hardware acceleration Y2R
 - Emulation Xbox 360 Controller for awesome game support ( by ViGEm )
@@ -16,17 +15,17 @@ https://discord.gg/CpNpMdG
 - Realtime config from 3DS side
 
 #### Plans
--  Implement Qt UI for basic use
+-  Implement GUI for basic use
 -  add Hub UI for fast access to game or app
  - Checker for wifi and sleepmode and other events relating to 3DS
-# Requirements to get Pinbox to run:
+# Requirements to get 3ds remote play to run:
 * Visual C++ Redistributable for Visual Studio 2015
 https://goo.gl/ijdZ1x
 - Xbox 360 Accessories Software 1.2 (contains the missing device drivers)
 https://goo.gl/xPK8qE
 
-- Make sure Windows is up to date with the latest security patches and updates
-- Install the Virtual Game pad Emulation Framework
+- Make sure your os is up to date with the latest security patches and updates
+- Install the Virtual controller Emulation Framework
 https://goo.gl/qcuVbp
 - Keep in mind: The requirements to Pinbox may change, please check the #how-to-setup section of The Pinbox Discord Server first.
 
