@@ -2,7 +2,7 @@
 
 [![N|Solid](https://cdn.discordapp.com/attachments/340110838947905538/398531319048699905/test.png)](https://github.com/namkazt/PinBox)
 
-Welcome to Pinbox! Pinbox is a homebrew application (Soon .cia) for the Nintendo 3DS that streams content from your Windows PC to the 3DS. Keep in mind, Pinbox is currenty in alpha, so bugs will occur! Contact Namkazt on the Pinbox Discord for help. 
+Welcome to 3ds Remote Play! Pinbox is a homebrew application (Soon .cia) for the Nintendo 3DS that streams content from your Windows PC to the 3DS. Keep in mind, 3ds remote play is currenty in alpha, so bugs will occur! Contact Namkazt on the Pinbox Discord for help. 
 
 https://discord.gg/CpNpMdG
 
